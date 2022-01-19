@@ -1,0 +1,6 @@
+framework module Pods_suplign {
+  umbrella header "Pods-suplign-umbrella.h"
+
+  export *
+  module * { export * }
+}
